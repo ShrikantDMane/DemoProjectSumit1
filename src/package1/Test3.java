@@ -7,5 +7,9 @@ public class Test3 {
 		System.out.println("m2 method added by developer");
 	}
 	
-	
+	public void m3() {
+		
+		System.out.println("m3 method added by developer");
+		
+	}
 }
